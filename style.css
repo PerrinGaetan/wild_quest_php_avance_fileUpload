@@ -1,0 +1,28 @@
+.card{
+    display: flex;
+    border: 1px solid grey;
+    border-radius: 25px;
+    width: 20em;
+    margin: auto;
+    background-color: rgb(184, 174, 174);
+}
+
+.card_imageContainer img{
+    width: 10rem;
+    border-right: 1px solid grey;
+}
+
+.card_identityInformation{
+    width: 100%;
+    text-align: center;
+}
+
+.card_identityInformationName{
+    border-bottom: 1px solid grey;
+
+}
+
+form{
+    display: flex;
+    justify-content: center;
+}
